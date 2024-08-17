@@ -1,2 +1,2 @@
-export * from './defaultData'
-export * from './messages'
+export * from './defaultData';
+export * from './messages';

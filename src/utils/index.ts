@@ -1,2 +1,2 @@
-export * from './helpers'
-export * from './typeGuards'
+export * from './helpers';
+export * from './typeGuards';

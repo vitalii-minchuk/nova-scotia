@@ -1,13 +1,13 @@
 export enum EAppSearchParamsKey {
-    SEARCH = 'search',
-    TYPE = 'type'
+  SEARCH = 'search',
+  TYPE = 'type',
 }
 
 export enum EAppRoutes {
-    ROOT = '/'
+  ROOT = '/',
 }
 
 export enum EAnimalType {
-    CAT,
-    DOG
+  CAT,
+  DOG,
 }

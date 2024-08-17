@@ -1,1 +1,1 @@
-export const genericErrorMessage = 'Something went wrong'
+export const genericErrorMessage = 'Something went wrong';
